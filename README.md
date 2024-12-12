@@ -40,5 +40,5 @@ This project aims to predict the popularity of online news articles, measured by
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/neha181298/MLC-Project.git
+   cd MLC-Project
